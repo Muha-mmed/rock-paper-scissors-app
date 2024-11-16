@@ -38,4 +38,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Muhammed** - [GitHub Profile] (https://github.com/Muha-mmed/)
+- **Muhammed** - [GitHub Profile](https://github.com/Muha-mmed/)
