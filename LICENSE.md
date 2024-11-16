@@ -1,21 +1,4 @@
 
-### Explanation:
-
-- **Title and Description**: Clearly states what the project is about.
-- **Table of Contents**: Makes navigation easier.
-- **Features**: Highlights the key functionalities of your app.
-- **Screenshots**: (Optional) Visual representation helps users understand the UI.
-- **Getting Started**: Guides users on how to set up and run the project.
-- **How to Play**: Provides instructions on how to use the app.
-- **Tech Stack**: Lists the technologies used.
-- **Contributing**: Encourages others to contribute to your project.
-- **License**: Points to the LICENSE file for legal terms.
-- **Author**: Credits you as the creator.
-
----
-
-## 2. `LICENSE`
-
 Create a `LICENSE` file in the root directory of your repository with the following content. Since you've chosen the MIT License, here's the complete text tailored with your details:
 
 ```plaintext
