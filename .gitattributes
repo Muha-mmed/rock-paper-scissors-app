@@ -6,3 +6,16 @@
 *.html linguist-vendored
 android/** linguist-vendored
 ios/** linguist-vendored
+
+
+*.dart   text
+*.gradle text
+*.html   text
+*.java   text
+*.json   text
+*.md     text
+*.py     text
+*.sh     text
+*.txt    text
+*.xml    text
+*.yaml   text
