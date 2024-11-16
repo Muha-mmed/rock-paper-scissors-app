@@ -4,3 +4,5 @@
 *.cmake linguist-vendored
 *.swift linguist-vendored
 *.html linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
