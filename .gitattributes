@@ -1,6 +1,7 @@
 # Do not detect
 *.cc -linguist-detectable
 *.cpp -linguist-detectable
+*.CMake -linguist-detectable
 
 
 # Detect
