@@ -1,8 +1,18 @@
-# Do not detect
+# Explicitly set Dart as the language for Dart files
+*.dart linguist-language=Dart
+
+# Mark Flutter-related and other build files as "vendored" (ignore for language stats)
+*.gradle linguist-vendored
+*.java linguist-vendored
+*.xml linguist-vendored
+*.html linguist-vendored
+*.json linguist-vendored
+*.md linguist-vendored
+*.sh linguist-vendored
+*.txt linguist-vendored
+
+# Ignore C++ and other languages (if copied) for language stats
 *.cmake -linguist-detectable
-*.cc -linguist-detectable
-*.cpp -linguist-detectable
-
-
-# Detect
-*.dart linguist-detectable
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.swift linguist-vendored
