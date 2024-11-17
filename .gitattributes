@@ -1,7 +1,7 @@
 # Do not detect
+*.cmake -linguist-detectable
 *.cc -linguist-detectable
 *.cpp -linguist-detectable
-*.cmake -linguist-detectable
 
 
 # Detect
